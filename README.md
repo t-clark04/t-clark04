@@ -9,7 +9,7 @@
 
 
 ### About Me 🌐
-Junior at the University of Notre Dame studying Applied and Computational Mathematics and Statistics (ACMS) with a minor in Data Science. I am fascinated by all things data and hope to use every tool at my disposal to harness the power of ethically-sourced data analysis for the greater good.
+Junior at the University of Notre Dame studying Applied and Computational Mathematics and Statistics (ACMS) with a minor in Data Science 📊. I am fascinated by all things data and hope to use every tool at my disposal to harness the power of ethically-sourced data analysis for the greater good.
 
 
 ### Research Experience 🌟
@@ -22,7 +22,7 @@ Junior at the University of Notre Dame studying Applied and Computational Mathem
 
 
 ### Tech Toolbox 🛠️
-- **Languages:** R, Python
+- **Languages and Tools:** R and R Shiny, Python, Microsoft Excel
   
 
 ### Certifications 📜
