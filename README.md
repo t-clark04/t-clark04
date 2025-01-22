@@ -1,21 +1,4 @@
-## Hi there 👋
-
-<!--
-**t-clark04/t-clark04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👋 Hello, I'm Tommy!
+# 👋 Hi there, I'm Tommy Clark!
 
 ## 🎓 Student at the University of Notre Dame
 
@@ -26,28 +9,20 @@ Here are some ideas to get you started:
 
 
 ### About Me 🌐
-Blending over 7 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences.
+Junior at the University of Notre Dame studying Applied and Computational Mathematics and Statistics (ACMS) with a minor in Data Science. I am fascinated by all things data and hope to use every tool at my disposal to harness the power of ethically-sourced data analysis for the common good.
 
 
-### Professional Highlights 🌟
-- **AI Engineer** - Menyala, Singapore (2024 - Present)
-- **Lead AI Engineer** - OneByZero, Singapore (2023 - 2024)
-- **Senior AI Engineer** - Splore, Singapore (2023)
-- **ML Engineer - NLP** - Unscrambl, India (2017 - 2022)
+### Research Experience 🌟
+- **Undergraduate Research Assistant** - University of Notre Dame (Jan 2025 - Present)
+- **Scientific Research Experience Module** - University of Galway (Sept - Dec 2024)
+- **ACMS Sports Performance Research Assistant** - University of Notre Dame (May - July 2024)
 
 
 ### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, JavaScript, Ruby
-- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
-- **Tools:** AWS, GCP, Docker, Git
-- **Specialties:** LLMs, Generative AI, NLP, Search
-
-### Education 🎓
-- **Masters in IT**, The University of Melbourne
-- **Bachelors in Computer Applications**, Bhartiya Vidyapeeth University
+- **Languages:** R, Python
+  
 
 ### Certifications 📜
-- **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
-- **Udacity:** NLP, ML, React Nanodegrees
+- **DataCamp:** Intermediate R, Building Web Applications with Shiny in R
+- **Udemy:** Excel from Beginner to Advanced
 
-🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat!
