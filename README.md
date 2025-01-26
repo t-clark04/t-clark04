@@ -5,7 +5,7 @@
 📍 **Greater Cleveland, Ohio**  
 📧 **Email:** [tclark23@nd.edu](mailto:tclark23@nd.edu)  
 🔗 **LinkedIn:** [tommy-clark-nd](https://www.linkedin.com/in/tommy-clark-nd/)  
-👨‍💻 **GitHub:** [t-clark04](https://github.com/t-clark04)
+👨‍💻 **GitHub:** [t-clark04](https://github.com/t-clark04)  
 📂 **Data Science Portfolio:** [CLARK-Data-Science-Portfolio](https://github.com/t-clark04/CLARK-Data-Science-Portfolio)
 
 
