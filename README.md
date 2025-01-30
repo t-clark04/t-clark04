@@ -10,7 +10,7 @@
 
 
 ### About Me 🌐
-Junior at the University of Notre Dame studying Applied and Computational Mathematics and Statistics (ACMS) 📈 with a minor in Data Science 📊. I am fascinated by all things data and hope to use every tool at my disposal to harness the power of ethically-sourced data analysis for the greater good. My research and career interests are extensive, ranging from analysis in the public health sector to statistical work in sports and sports medicine to investigations into philosophical and sociological matters such as the pursuit of happiness.    
+Junior at the University of Notre Dame studying Applied and Computational Mathematics and Statistics (ACMS) 📈 with a minor in Data Science 📊. I am fascinated by all things data and hope to use every tool at my disposal to harness the power of ethically-sourced data analysis for the greater good. My research and career interests are extensive, ranging from analysis in the public health sector to statistical work in sports and sports medicine to investigations into philosophical and sociological matters like the pursuit of happiness.    
 
 
 ### Research Experience 🌟
