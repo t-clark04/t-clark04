@@ -15,7 +15,7 @@ Junior at the University of Notre Dame studying Applied and Computational Mathem
 
 ### Research Experience 🌟
 - **Undergraduate Research Assistant** - University of Notre Dame (Jan 2025 - Present)
-  -  Conducting research with Dr. Catie Adamo into post-quantum, lattice-based crytography over the course of the spring semester.
+  -  Conducting research with Dr. Catie Adamo into post-quantum, lattice-based cryptography over the course of the spring semester.
   -  Aim to implement more efficient encryption algorithms to ensure secure communications in the face of attacks from rapidly developing quantum computers and AI.
 - **Scientific Research Experience Module** - University of Galway (Sept - Dec 2024)
   - Wrote functions in R to calculate, illustrate, and interpret a number of blood lactate markers as a measure of endurance in athletes, under the guidance of Dr. John Newell.
