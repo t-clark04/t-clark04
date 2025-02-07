@@ -31,6 +31,13 @@ My name is Tommy Clark, and I am a junior at the University of Notre Dame studyi
   - Analyzed a Kaggle dataset containing Spotify Web API metrics for over 13,000 songs to attempt to explain variations in song popularity.
 
 
+### Goals 🏆
+- By the end of the semester, I hope to have:
+  - Expanded my data science toolbox (in terms of both breadth *and* depth).
+  - Improved upon my data storytelling and general communication skills.
+  - Gained greater assurance in my planned career path as a future data analyst.
+
+
 ### Tech Toolbox 🛠️
 - **Languages and Tools:** R, Python, Microsoft Excel
 - **R Packages:** tidyverse and ggplot2, dplyr, Shiny, Plotly, rgl
@@ -40,4 +47,3 @@ My name is Tommy Clark, and I am a junior at the University of Notre Dame studyi
 ### Certifications 📜
 - **DataCamp:** Intermediate R, Building Web Applications with Shiny in R
 - **Udemy:** Excel from Beginner to Advanced
-
