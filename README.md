@@ -25,16 +25,16 @@ My name is Tommy Clark, and I am a junior at the University of Notre Dame studyi
  
 ### Projects 💻
 - **Current**
-  - Compiling a semester-long portfolio of web applications and other data science-related projects in my Introduction to Data Science class. Intended to showcase my proficiency in Python libraries like Streamlit and Seaborn, as well as my knowledge of Machine Learning, Large Language Models, and other advanced topics in the field of data science. (See [Clark-Data-Science-Portfolio](https://github.com/t-clark04/Clark-Data-Science-Portfolio).)
+  - Compiling a semester-long portfolio of web applications and other data science-related projects in my Introduction to Data Science class. The portfolio is intended to showcase my proficiency in Python libraries like Streamlit and Seaborn, as well as my knowledge of Machine Learning, Large Language Models, and other advanced topics in the field of data science. (See [Clark-Data-Science-Portfolio](https://github.com/t-clark04/Clark-Data-Science-Portfolio).)
 - **Past**
-  - Utilized ggplot2, dplyr, plotly, rgl, and a number of other R packages to complete a semester-long visualization project on the causes and correlates of happiness.
+  - Utilized ggplot2, dplyr, Plotly, rgl, and a number of other R packages to complete a semester-long visualization project on the causes and correlates of happiness.
   - Analyzed a Kaggle dataset containing Spotify Web API metrics for over 13,000 songs to attempt to explain variations in song popularity.
 
 
 ### Tech Toolbox 🛠️
 - **Languages and Tools:** R, Python, Microsoft Excel
-- **R Packages:** tidyverse and ggplot2, dplyr, Shiny, Plotly
-- **Python Libraries:** NumPy, MatplotLib
+- **R Packages:** tidyverse and ggplot2, dplyr, Shiny, Plotly, rgl
+- **Python Libraries:** NumPy, MatplotLib, pandas
   
 
 ### Certifications 📜
