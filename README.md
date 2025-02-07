@@ -20,7 +20,15 @@ My name is Tommy Clark, and I am a junior at the University of Notre Dame studyi
 - **Scientific Research Experience Module** - University of Galway (Sept - Dec 2024)
   - Wrote functions in R to calculate, illustrate, and interpret a number of blood lactate markers as a measure of endurance in athletes, under the guidance of Dr. John Newell.
 - **ACMS Sports Performance Research Assistant** - University of Notre Dame (May - July 2024)
-  - Developed my own package in R Studio to execute D-studies from Generalizability Theory for a particular kind of kinematic data collected on Notre Dame varsity athletes. 
+  - Developed my own package in R Studio to execute D-studies from Generalizability Theory for a particular kind of kinematic data collected on Notre Dame varsity athletes.
+
+ 
+### Projects 💻
+- **Current**
+  - Compiling a semester-long portfolio of web applications and other data science-related projects in my Introduction to Data Science class. Intended to showcase my proficiency in Python libraries like Streamlit and Seaborn, as well as my knowledge of Machine Learning, Large Language Models, and other advanced topics in the field of data science.
+- **Past**
+  - Utilized ggplot2, dplyr, plotly, rgl, and a number of other R packages to complete a semester-long visualization project on the causes and correlates of happiness.
+  - Analyzed a Kaggle dataset containing Spotify Web API metrics for over 13,000 songs to attempt to explain variations in song popularity.
 
 
 ### Tech Toolbox 🛠️
