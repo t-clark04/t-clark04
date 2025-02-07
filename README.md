@@ -6,11 +6,11 @@
 📧 **Email:** [tclark23@nd.edu](mailto:tclark23@nd.edu)  
 🔗 **LinkedIn:** [tommy-clark-nd](https://www.linkedin.com/in/tommy-clark-nd/)  
 👨‍💻 **GitHub:** [t-clark04](https://github.com/t-clark04)  
-📂 **Data Science Portfolio:** [CLARK-Data-Science-Portfolio](https://github.com/t-clark04/CLARK-Data-Science-Portfolio)
+📂 **Data Science Portfolio:** [Clark-Data-Science-Portfolio](https://github.com/t-clark04/Clark-Data-Science-Portfolio)
 
 
 ### About Me 🌐
-Junior at the University of Notre Dame studying Applied and Computational Mathematics and Statistics (ACMS) 📈 with a minor in Data Science 📊. I am fascinated by all things data and hope to use every tool at my disposal to harness the power of ethically-sourced data analysis for the greater good. My research and career interests are extensive, ranging from analysis in the public health sector to statistical work in sports and sports medicine to investigations into philosophical and sociological matters like the pursuit of happiness.    
+My name is Tommy Clark, and I am a junior at the University of Notre Dame studying Applied and Computational Mathematics and Statistics (ACMS) 📈 with a minor in Data Science 📊. I am fascinated by all things data and hope to use every tool at my disposal to harness the power of ethically-sourced data analysis for the greater good. My research and career interests are broad, ranging from analysis in the public health sector to statistical work in sports and sports medicine to experimentation with post-quantum, public-key cryptosystems. 
 
 
 ### Research Experience 🌟
