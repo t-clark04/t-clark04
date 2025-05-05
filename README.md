@@ -30,21 +30,17 @@ My name is Tommy Clark, and I am a junior at the University of Notre Dame studyi
   - [Tidy Data Project on Olympic Data](https://github.com/t-clark04/Clark-Data-Science-Portfolio/tree/main/TidyData-Project)
   - [Palmer's Penguins Streamlit App](https://github.com/t-clark04/Clark-Data-Science-Portfolio/tree/main/basic-streamlit-app)
 - **Past**
-  - Semester-long project on the causes and correlates of happiness using ``ggplot2``, ``dplyr``, ``plotly``, ``rgl``, and other R packages.
-  - Regression project in R attempting to explain variations in song popularity, using a Kaggle dataset with over 13,000 songs.
-
-
-### Goals 🏆
-- By the end of the semester, I hope to have:
-  - Expanded my data science toolbox (in terms of both breadth *and* depth).
-  - Improved upon my data storytelling and general communication skills.
-  - Gained greater assurance in my planned career path as a future data analyst.
+  - Semester-long project on the causes and correlates of happiness using ``ggplot2``, ``dplyr``, ``Plotly``, ``rgl``, and other R packages.
+  - Regression project in R attempting to explain variations in song popularity, using a [Kaggle dataset](https://www.kaggle.com/datasets/yasserh/song-popularity-dataset) with over 13,000 songs.
 
 
 ### Tech Toolbox 🛠️
 - **Languages and Tools:** R, Python, Microsoft Excel
-- **R Packages:** tidyverse and ggplot2, dplyr, Shiny, Plotly, rgl
-- **Python Libraries:** NumPy, MatplotLib, pandas
+- **R Packages:** ``tidyverse`` and ``ggplot2``, ``dplyr``, ``Shiny``, ``Plotly``, ``rgl``
+- **Python Libraries:** ``NumPy``, ``MatplotLib``, ``pandas``, ``SciPy``, ``streamlit``, ``scikit-learn``, ``seaborn``, ``plotly``
+- **Machine Learning Models**:
+  - **Supervised**: Linear Regression, Logistic Regression, Decision Tree, K-Nearest Neighbors
+  - **Unsupervised**: K-Means Clustering, Hierarchical Clustering, Principal Component Analysis (PCA), t-SNE
   
 
 ### Certifications 📜
