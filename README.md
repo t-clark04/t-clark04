@@ -20,7 +20,7 @@ My name is Tommy Clark, and I am a junior at the University of Notre Dame studyi
 - **Scientific Research Experience Module** - University of Galway (Sept - Dec 2024)
   - Wrote functions in R to calculate, visualize, and interpret a number of blood lactate markers as a measure of endurance in athletes, under the guidance of Dr. John Newell.
 - **ACMS Sports Performance Research Assistant** - University of Notre Dame (May - July 2024)
-  - Developed my own package in R Studio to execute D-studies from Generalizability Theory for a particular kind of kinematic data collected on Notre Dame varsity athletes (featured in [this publication](https://doi.org/10.3390/sports13030085)).
+  - Developed my own package in R Studio to execute D-studies from Generalizability Theory for a particular kind of kinematic data collected on Notre Dame varsity athletes (utilized in [this publication](https://doi.org/10.3390/sports13030085)).
 
  
 ### Projects 💻
