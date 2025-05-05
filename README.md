@@ -16,7 +16,7 @@ My name is Tommy Clark, and I am a junior at the University of Notre Dame studyi
 ### Research Experience 🌟
 - **Undergraduate Research Assistant** - University of Notre Dame (Jan 2025 - Present)
   - Conducting research into lattice-based, public-key cryptography alongside Dr. Catie Adamo, with the end goal of testing the security of the most promising post-quantum cryptosystems.
-  - Have implemented various lattice reduction algorithms, as well as a new class for truncated polynomial quotient rings in Python.
+  - Have implemented various lattice reduction algorithms, as well as a new class for polynomial quotient rings in Python.
 - **Scientific Research Experience Module** - University of Galway (Sept - Dec 2024)
   - Wrote functions in R to calculate, illustrate, and interpret a number of blood lactate markers as a measure of endurance in athletes, under the guidance of Dr. John Newell.
 - **ACMS Sports Performance Research Assistant** - University of Notre Dame (May - July 2024)
