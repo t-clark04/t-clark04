@@ -10,7 +10,7 @@
 
 
 ### About Me 🌐
-My name is Tommy Clark, and I am a junior at the University of Notre Dame studying Applied and Computational Mathematics and Statistics (ACMS) 📈 with a minor in Data Science 📊. I am fascinated by all things data and hope to use every tool at my disposal to harness the power of data analysis for the greater good. My research and career interests are broad, ranging from analysis in the public health sector to statistical work in sports and sports medicine to experimentation with post-quantum, public-key cryptosystems. 
+My name is Tommy Clark, and I am a junior at the University of Notre Dame studying Applied and Computational Mathematics and Statistics (ACMS) 📈 with a minor in Data Science 📊. I am fascinated by all things data and hope to use every tool at my disposal to harness the power of data analysis for the greater good. My research and career interests are broad, ranging from analysis in the public health sector to statistical work in sports and sports medicine to experimentation with post-quantum cryptography. 
 
 
 ### Research Experience 🌟
