@@ -27,7 +27,7 @@ My name is Tommy Clark, and I am a junior at the University of Notre Dame studyi
 - **Recent**
   - [NBA-All Star Prediction with Supervised ML](https://github.com/t-clark04/Clark-Data-Science-Portfolio/tree/main/MLStreamlitApp)
   - [Sabermetrics with MLB Pitching Data and Unsupervised ML](https://github.com/t-clark04/Clark-Data-Science-Portfolio/tree/main/MLUnsupervisedApp)
-  - [Tidy Data Project on Olympic Data](https://github.com/t-clark04/Clark-Data-Science-Portfolio/tree/main/TidyData-Project)
+  - [Tidy Data Project on 2008 Olympic Data](https://github.com/t-clark04/Clark-Data-Science-Portfolio/tree/main/TidyData-Project)
   - [Palmer's Penguins Streamlit App](https://github.com/t-clark04/Clark-Data-Science-Portfolio/tree/main/basic-streamlit-app)
 - **Past**
   - Semester-long project on the causes and correlates of happiness using ``ggplot2``, ``dplyr``, ``Plotly``, ``rgl``, and other R packages.
