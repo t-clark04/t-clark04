@@ -35,7 +35,7 @@ My name is Tommy Clark, and I am a rising senior at the University of Notre Dame
 
 
 ### Tech Toolbox 🛠️
-- **Languages and Tools:** R, Python, Microsoft Excel
+- **Languages and Tools:** R, Python, SQL, Microsoft Excel
 - **R Packages:** ``tidyverse`` and ``ggplot2``, ``dplyr``, ``Shiny``, ``Plotly``, ``rgl``
 - **Python Libraries:** ``NumPy``, ``MatplotLib``, ``pandas``, ``SciPy``, ``streamlit``, ``scikit-learn``, ``seaborn``, ``plotly``
 - **Machine Learning Models**:
@@ -45,4 +45,4 @@ My name is Tommy Clark, and I am a rising senior at the University of Notre Dame
 
 ### Certifications 📜
 - **DataCamp:** Intermediate R, Building Web Applications with Shiny in R
-- **Udemy:** Excel from Beginner to Advanced
+- **Udemy:** The Complete SQL Bootcamp, Excel from Beginner to Advanced
