@@ -23,7 +23,7 @@ My name is Tommy Clark, and I am a  senior at the University of Notre Dame study
   - Have implemented various lattice reduction algorithms, as well as a new class for polynomial quotient rings in Python.
   - Will write and present an undergraduate thesis on our findings in the spring.
 - **Scientific Research Experience Module** - University of Galway (Sept - Dec 2024)
-  - Wrote functions in R to calculate, visualize, and interpret a number of blood lactate markers as a measure of endurance in athletes, under the guidance of Dr. John Newell.
+  - [Wrote functions in R](https://github.com/t-clark04/Galway-Endurance-Research) to calculate, visualize, and interpret a number of blood lactate markers as a measure of endurance in athletes, under the guidance of Dr. John Newell.
 
 
  
@@ -34,7 +34,7 @@ My name is Tommy Clark, and I am a  senior at the University of Notre Dame study
   - [Tidy Data Project on 2008 Olympic Data](https://github.com/t-clark04/Clark-Data-Science-Portfolio/tree/main/TidyData-Project)
   - [Palmer's Penguins Streamlit App](https://github.com/t-clark04/Clark-Data-Science-Portfolio/tree/main/basic-streamlit-app)
 - **Past**
-  - Semester-long project on the causes and correlates of happiness using ``ggplot2``, ``dplyr``, ``Plotly``, ``rgl``, and other R packages.
+  - [Semester-long project](https://github.com/t-clark04/Happiness-Project) on the causes and correlates of happiness using ``ggplot2``, ``dplyr``, ``Plotly``, ``rgl``, and other R packages.
   - Regression project in R attempting to explain variations in song popularity, using a [Kaggle dataset](https://www.kaggle.com/datasets/yasserh/song-popularity-dataset) with over 13,000 songs.
 
 
