@@ -17,7 +17,7 @@ My name is Tommy Clark, and I am a  senior at the University of Notre Dame study
 - **ACMS Sports Performance Research Assistant** - University of Notre Dame (May 2024 - Present)
   - Completing statistical projects in R to inform athlete development, prevent injuries, and provide a competitive edge for a variety of Notre Dame varsity athletic teams.
   - Became an expert on Bayesian statistics and presented its range of applications to sports practitioners.
-  - Carried out reliability testing on movement data for varsity teams by applying a powerful framework called Generalizability Theory (G-Theory), developing two separate R packages to execute D-studies (Bayesian: github.com/t-clark04/bayesian.gtheory ; frequentist: https://github.com/t-clark04/dtheory).
+  - Carried out reliability testing on movement data for varsity teams by applying a powerful framework called Generalizability Theory (G-Theory), developing two separate R packages to execute D-studies (Bayesian: github.com/t-clark04/bayesian.gtheory; frequentist: https://github.com/t-clark04/dtheory).
 - **Undergraduate Research Assistant** - University of Notre Dame (Jan 2025 - Present)
   - Conducting research into lattice-based, public-key cryptography alongside Dr. Catie Adamo, with the end goal of testing the security of the most promising post-quantum cryptosystems.
   - Have implemented various lattice reduction algorithms, as well as a new class for polynomial quotient rings in Python.
