@@ -10,17 +10,21 @@
 
 
 ### About Me 🌐
-My name is Tommy Clark, and I am a rising senior at the University of Notre Dame studying Applied and Computational Mathematics and Statistics (ACMS) 📈 with a minor in Data Science 📊. I am fascinated by all things data and hope to use every tool at my disposal to harness the power of data analysis for the greater good. My research and career interests are broad, ranging from analysis in the public health sector to statistical work in sports and sports medicine to experimentation with post-quantum cryptography. 
+My name is Tommy Clark, and I am a  senior at the University of Notre Dame studying Honors Applied and Computational Mathematics and Statistics (ACMS) 📈 with a minor in Data Science 📊. I am fascinated by all things data and hope to use every tool at my disposal to harness the power of data analysis for the greater good. My research and career interests are broad, ranging from analysis in the public health sector to statistical work in sports and sports medicine to experimentation with post-quantum cryptography. 
 
 
 ### Research Experience 🌟
+- **ACMS Sports Performance Research Assistant** - University of Notre Dame (May 2024 - Present)
+  - Completing statistical projects in R to inform athlete development, prevent injuries, and provide a competitive edge for a variety of Notre Dame varsity athletic teams.
+  - Became an expert on Bayesian statistics and presented its range of applications to sports practitioners.
+  - Carried out reliability testing on movement data for varsity teams by applying a powerful framework called Generalizability Theory (G-Theory), developing two separate R packages to execute D-studies (Bayesian: github.com/t-clark04/bayesian.gtheory; frequentist: https://github.com/t-clark04/dtheory).
 - **Undergraduate Research Assistant** - University of Notre Dame (Jan 2025 - Present)
   - Conducting research into lattice-based, public-key cryptography alongside Dr. Catie Adamo, with the end goal of testing the security of the most promising post-quantum cryptosystems.
   - Have implemented various lattice reduction algorithms, as well as a new class for polynomial quotient rings in Python.
+  - Will write and present an undergraduate thesis on our findings in the spring.
 - **Scientific Research Experience Module** - University of Galway (Sept - Dec 2024)
   - Wrote functions in R to calculate, visualize, and interpret a number of blood lactate markers as a measure of endurance in athletes, under the guidance of Dr. John Newell.
-- **ACMS Sports Performance Research Assistant** - University of Notre Dame (May - July 2024)
-  - Developed my own package in R Studio to execute D-studies from Generalizability Theory for a particular kind of kinematic data collected on Notre Dame varsity athletes (utilized in [this publication](https://doi.org/10.3390/sports13030085)).
+
 
  
 ### Projects 💻
