@@ -15,7 +15,7 @@ My name is Tommy Clark, and I am a  senior at the University of Notre Dame study
 
 ### Research Experience 🌟
 - **ACMS Sports Performance Research Assistant** - University of Notre Dame (May 2024 - Present)
-  - Completing statistical projects in R to inform athlete development, prevent injuries, and provide a competitive edge for a variety of Notre Dame varsity athletic teams.
+  - Completing statistical projects in R to inform athlete development, prevent injuries, and provide a competitive edge for Notre Dame athletics.
   - Became an expert on Bayesian statistics and presented its range of applications to sports practitioners.
   - Carried out reliability testing on movement data for varsity teams by applying a powerful framework called Generalizability Theory (G-Theory), developing two separate R packages to execute D-studies ([Bayesian](github.com/t-clark04/bayesian.gtheory) and [Frequentist](https://github.com/t-clark04/dtheory)).
 - **Undergraduate Research Assistant** - University of Notre Dame (Jan 2025 - Present)
